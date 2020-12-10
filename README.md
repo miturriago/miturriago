@@ -6,7 +6,6 @@ Co-founder of Labbel, developer and partner at Livery Colombia
 
 Skills: VUE JS / REACT /  REACT-NATIVE  /JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
