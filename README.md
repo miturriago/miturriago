@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ruby on jets and aws services**
 
-- 👯 I’m looking to collaborate on [Livery](https://liverycolombia.com/)
-
 - 🤝 I’m looking for help with [MCA System](https://www.horussmartenergyapp.com/)
 
 - 💬 Ask me about **vue js, react js, react native, angular, node js**
