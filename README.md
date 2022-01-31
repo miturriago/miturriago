@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [City Lending Inc](https://citylendinginc.com/)
 
-- 🌱 I’m currently learning **ruby on jets and aws services**
+- 🌱 I’m currently learning **ruby and aws services**
 
 - 🤝 I’m looking for help with [MCA System](https://www.horussmartenergyapp.com/)
 
