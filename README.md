@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mauriciomaldo/](https://www.linkedin.com/in/mauriciomaldo/)
 
-- 📄 visit my portfolio [https://mauriciomaldonadodev.web.app/#/] (https://mauriciomaldonadodev.web.app/#/)
+- 📄 visit my portfolio https://mauriciomaldonadodev.web.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
