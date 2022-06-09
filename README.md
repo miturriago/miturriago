@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Solarmission](https://solarmission.com/)
 
-- 🌱 I’m currently learning **ruby and aws services**
+- 🌱 I’m currently learning **salesforce, twilio cli and aws services**
 
 - 🤝 I’m looking for help with [MCA System](https://www.horussmartenergyapp.com/)
 
