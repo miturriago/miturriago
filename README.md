@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miturriago&label=Profile%20views&color=0e75b6&style=flat" alt="miturriago" /> </p>
 
-- 🔭 I’m currently working on [Solarmission](https://solarmission.com/)
+- 🔭 I’m currently working on [SIGNI Group](https://solarmission.com/)
 
 - 🌱 I’m currently learning **salesforce, twilio cli and aws services**
 
