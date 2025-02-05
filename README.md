@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Twilio Cli, Salesforce and AWS**
 
-- 👨‍💻 All of my projects are available at [https://mauriciomaldonadodev.web.app/#/](https://mauriciomaldonadodev.web.app/#/)
-
 - 💬 Ask me about **React, React Native, Vue Js, Node Js**
 
 - 📫 How to reach me **mauriciomaldo.14@gmail.com**
