@@ -26,8 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miturriago&show_icons=true&locale=en&layout=compact" alt="miturriago" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miturriago&show_icons=true&locale=en" alt="miturriago" /></p>
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
