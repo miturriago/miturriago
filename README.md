@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miturriago" alt="miturriago" /></a> </p>
 
-- 🌱 I’m currently learning **Twilio Cli, Salesforce and AWS**
+- 🌱 I’m currently learning **Salesforce Cli and AWS**
 
-- 💬 Ask me about **React, React Native, Vue Js, Node Js**
+- 💬 Ask me about **React, Node Js, Angular, AWS**
 
 - 📫 How to reach me **mauriciomaldo.14@gmail.com**
 
@@ -18,7 +18,6 @@
 <a href="https://twitter.com/mauriciomaldo21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauriciomaldo21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mauriciomaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciomaldo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19591616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19591616" height="30" width="40" /></a>
-<a href="https://instagram.com/mauriciomaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauriciomaldo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miturriago&show_icons=true&locale=en" alt="miturriago" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miturriago&" alt="miturriago" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
