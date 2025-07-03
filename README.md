@@ -18,6 +18,7 @@
 <a href="https://twitter.com/mauriciomaldo21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauriciomaldo21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mauriciomaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciomaldo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19591616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19591616" height="30" width="40" /></a>
+<a href="https://miturriago-portfolio.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciomaldo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
