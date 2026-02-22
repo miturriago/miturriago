@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mauriciomaldo.14@gmail.com**
 
-- 📄 Know about my experiences [https://miturriago-portfolio.vercel.app](https://miturriago-portfolio.vercel.app)
+- 📄 Know about my experiences [https://miturriagodev.com](https://miturriagodev.com)
   
 - 📄 get to know my brand [https://lovelacedev.com](https://lovelacedev.com)
 
