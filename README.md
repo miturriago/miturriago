@@ -20,8 +20,8 @@ Full Stack Tech Lead with 6+ years of experience designing and building producti
 
 Currently based in **Madrid, Spain**, working remotely for clients across Latin America and Europe.
 
-- 🏗️ Tech Lead at **Catalítico** (venture builder) — managing multiple simultaneous product teams
-- 📋 Project Lead at **Xuma** — insurtech platform
+- 🏗️ Tech Lead at **Catalítico** and **XUMA** -insurtech platform (venture builder) — managing multiple simultaneous product teams
+- 📋 Backend developer at **Profile**
 - 🚀 Founder of **[lovelacedev.com](https://lovelacedev.com)** — freelance agency focused on AI-integrated systems
 - 🌐 Portfolio: **[miturriagodev.com](https://miturriagodev.com)**
 - 🤖 Passionate about integrating LLMs and AI APIs into real-world products
