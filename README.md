@@ -25,7 +25,6 @@ Currently based in **Madrid, Spain**, working remotely for clients across Latin 
 - 🚀 Founder of **[lovelacedev.com](https://lovelacedev.com)** — freelance agency focused on AI-integrated systems
 - 🌐 Portfolio: **[miturriagodev.com](https://miturriagodev.com)**
 - 🤖 Passionate about integrating LLMs and AI APIs into real-world products
-- 🌍 Open to Senior Full Stack / Tech Lead roles in Spain (remote or Madrid hybrid)
 
 ---
 
